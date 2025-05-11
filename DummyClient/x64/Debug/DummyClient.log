@@ -1,0 +1,21 @@
+﻿  DummyClient.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xiosbase(299,46): warning C4003: 함수 같은 매크로 호출 'xalloc'에 대해 인수가 부족합니다.
+  (소스 파일 'DummyClient.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xiosbase(299,46): error C3254: 'std::ios_base': 클래스에 명시적 재정의 'Alloc'이(가) 포함되어 있지만 함수 선언을 포함하는 인터페이스에서 파생되지 않습니다.
+  (소스 파일 'DummyClient.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xiosbase(299,46): error C2838: 'Alloc': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'DummyClient.cpp'을(를) 컴파일하는 중)
+  
+  pch.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xiosbase(299,46): warning C4003: 함수 같은 매크로 호출 'xalloc'에 대해 인수가 부족합니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xiosbase(299,46): error C3254: 'std::ios_base': 클래스에 명시적 재정의 'Alloc'이(가) 포함되어 있지만 함수 선언을 포함하는 인터페이스에서 파생되지 않습니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xiosbase(299,46): error C2838: 'Alloc': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
